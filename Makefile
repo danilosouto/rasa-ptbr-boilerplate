@@ -18,6 +18,7 @@ build:
 	make build-requirements
 	make build-coach
 	make build-bot
+	make build-analytics
 
 build-requirements:
 	docker build . --no-cache -f docker/requirements.Dockerfile -t botrequirements

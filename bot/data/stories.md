@@ -258,7 +258,7 @@
 * tudo_bem
     - utter_tudo_bem
 
-## Oi Tudo Bem Story 
+## Oi Tudo Bem Story
 * cumprimentar
     - utter_cumprimentar
 * tudo_bem
@@ -266,7 +266,7 @@
 
 ## Nao entendi
 * diga_mais
-    - utter_diga_mais  
+    - utter_diga_mais
 
 ## fallback
 * out_of_scope
